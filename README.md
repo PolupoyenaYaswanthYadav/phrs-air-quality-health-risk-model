@@ -9,7 +9,6 @@ src/              → Extracted Python scripts and main pipeline
 data/             → Raw and processed datasets
 notebooks/        → Jupyter notebook used for experimentation
 results/          → Figures and model metrics
-report/           → Presentation/report documents
 docs/             → Additional documentation or visuals
 ```
 
