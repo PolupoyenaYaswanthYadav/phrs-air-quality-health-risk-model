@@ -22,8 +22,8 @@ python src/main.py
 ```
 
 ## Contributors
-- **Ramith Khetarpal (22BDS0268)**
-- **Polupoyena Yaswanth Yadav (22BDS0358)**
+- **Ramith Khetarpal **
+- **Polupoyena Yaswanth Yadav **
 
 ## License
 This project is licensed under the MIT License.
