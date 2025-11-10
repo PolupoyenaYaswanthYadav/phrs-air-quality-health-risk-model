@@ -1,4 +1,4 @@
-# 🌏 Multi-Pollutant Air Quality Health Impact Model (PHRS)
+# Multi-Pollutant Air Quality Health Impact Model (PHRS)
 
 ## Overview
 This project introduces the **Personalized Health Risk Score (PHRS)** — a hybrid machine learning framework that quantifies the health impacts of air pollution in Indian districts by integrating multi-pollutant, meteorological, and behavioral data. The model uses **XGBoost** to predict district-level health risks and compute a **Personalized Health Risk Score (PHRS)** on a 1–100 scale.
